@@ -1,5 +1,5 @@
 # NotfallPunkt
-Ganz gleich ob lokal begrenzter, großflächiger oder bundesweiter Stromausfall - solange Du einen Raspberry Pi Zero mit Strom versorgen kannst (was auch mit einer Powerbank längere Zeot möglich ist) kannst Du mit dem _NotfallPunkt_ Informationen zur Verfügung stellen, von denen alle in der Krise profitieren können:
+Ganz gleich ob lokal begrenzter, großflächiger oder bundesweiter Stromausfall - solange Du einen Raspberry Pi Zero mit Strom versorgen kannst (was auch mit einer Powerbank längere Zeit möglich ist, da er [wenig Strom vebraucht](https://www.laub-home.de/wiki/Raspberry_Pi_Stromverbrauch_Vergleich) kannst Du mit dem _NotfallPunkt_ Informationen zur Verfügung stellen, von denen alle in der Krise profitieren können:
 
 * Erste-Hilfe-Anleitungen und weitere Informationen für Notfälle
 * Wichtige Apps und Informationen zur Notfallkommunikation
